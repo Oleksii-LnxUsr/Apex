@@ -1,0 +1,618 @@
+nohup: ignoring input
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[09/Apr/2025 20:11:40] "GET /api/ HTTP/1.0" 200 5300
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/css/bootstrap.min.css HTTP/1.0" 200 121457
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/css/bootstrap-tweaks.css HTTP/1.0" 200 3426
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/css/prettify.css HTTP/1.0" 200 817
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/css/default.css HTTP/1.0" 200 1152
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.0" 200 87533
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/js/ajax-form.js HTTP/1.0" 200 3796
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/js/csrf.js HTTP/1.0" 200 1793
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/js/bootstrap.min.js HTTP/1.0" 200 39680
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/js/prettify-min.js HTTP/1.0" 200 13632
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/js/default.js HTTP/1.0" 200 1268
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/js/load-ajax-form.js HTTP/1.0" 200 59
+[09/Apr/2025 20:11:41] "GET /api/static/rest_framework/img/grid.png HTTP/1.0" 200 1458
+/var/www/apexstake/backend/config/settings.py changed, reloading.
+/var/www/apexstake/backend/config/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 09, 2025 - 20:09:50
+Django version 5.1.7, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[09/Apr/2025 20:17:49] "GET /api/admin HTTP/1.0" 301 0
+[09/Apr/2025 20:17:49] "GET /api/admin/ HTTP/1.0" 302 0
+[09/Apr/2025 20:17:49] "GET /api/admin/login/?next=/api/admin/ HTTP/1.0" 200 4203
+[09/Apr/2025 20:17:49] "GET /api/static/admin/css/dark_mode.css HTTP/1.0" 200 2804
+[09/Apr/2025 20:17:49] "GET /api/static/admin/css/base.css HTTP/1.0" 200 22092
+[09/Apr/2025 20:17:49] "GET /api/static/admin/css/nav_sidebar.css HTTP/1.0" 200 2810
+[09/Apr/2025 20:17:49] "GET /api/static/admin/css/login.css HTTP/1.0" 200 951
+[09/Apr/2025 20:17:49] "GET /api/static/admin/css/responsive.css HTTP/1.0" 200 17972
+[09/Apr/2025 20:17:49] "GET /api/static/admin/js/theme.js HTTP/1.0" 200 1653
+[09/Apr/2025 20:17:49] "GET /api/static/admin/js/nav_sidebar.js HTTP/1.0" 200 3063
+[09/Apr/2025 20:17:52] "POST /api/admin/login/?next=/api/admin/ HTTP/1.0" 302 0
+[09/Apr/2025 20:17:52] "GET /api/admin/ HTTP/1.0" 200 16571
+[09/Apr/2025 20:17:52] "GET /api/static/admin/css/dashboard.css HTTP/1.0" 200 441
+[09/Apr/2025 20:17:52] "GET /api/static/admin/img/icon-addlink.svg HTTP/1.0" 200 331
+[09/Apr/2025 20:17:52] "GET /api/static/admin/img/icon-changelink.svg HTTP/1.0" 200 380
+[09/Apr/2025 20:17:52] "GET /api/static/admin/img/icon-deletelink.svg HTTP/1.0" 200 392
+[09/Apr/2025 20:18:00] "GET /api/admin/ HTTP/1.0" 302 0
+[09/Apr/2025 20:18:00] "GET /api/admin/login/?next=/api/admin/ HTTP/1.0" 200 4203
+[09/Apr/2025 20:20:01] "GET /api/admin/ HTTP/1.0" 302 0
+[09/Apr/2025 20:20:01] "GET /api/admin/login/?next=/api/admin/ HTTP/1.0" 200 4203
+[09/Apr/2025 20:20:01] "GET /api/static/admin/css/base.css HTTP/1.0" 200 22092
+[09/Apr/2025 20:20:02] "GET /api/static/admin/css/responsive.css HTTP/1.0" 200 17972
+[09/Apr/2025 20:20:02] "GET /api/static/admin/css/dark_mode.css HTTP/1.0" 200 2804
+[09/Apr/2025 20:20:02] "GET /api/static/admin/js/theme.js HTTP/1.0" 200 1653
+[09/Apr/2025 20:20:02] "GET /api/static/admin/css/nav_sidebar.css HTTP/1.0" 200 2810
+[09/Apr/2025 20:20:03] "GET /api/static/admin/js/nav_sidebar.js HTTP/1.0" 200 3063
+[09/Apr/2025 20:20:03] "GET /api/static/admin/css/login.css HTTP/1.0" 200 951
+[09/Apr/2025 20:21:34] "POST /api/auth/ HTTP/1.0" 200 858
+[09/Apr/2025 20:21:45] "GET /api/staking/levels/ HTTP/1.0" 200 531
+[09/Apr/2025 20:21:45] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:21:45] "GET /api/media/8f493593ab38c103561478393f2101e2_oiWy0d1.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:21:45] "GET /api/media/8f493593ab38c103561478393f2101e2.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:21:45] "GET /api/media/8f493593ab38c103561478393f2101e2_ixuYtiL.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:21:56] "GET /api/staking/levels/ HTTP/1.0" 200 531
+Not Found: /api/staking/me/
+Not Found: /api/staking/me/
+[09/Apr/2025 20:21:56] "GET /api/staking/me/ HTTP/1.0" 404 85
+[09/Apr/2025 20:21:56] "GET /api/transactions/ HTTP/1.0" 200 977
+[09/Apr/2025 20:21:57] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:21:57] "GET /api/staking/levels/ HTTP/1.0" 200 531
+[09/Apr/2025 20:21:57] "GET /api/media/8f493593ab38c103561478393f2101e2_oiWy0d1.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:21:57] "GET /api/media/8f493593ab38c103561478393f2101e2.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:21:57] "GET /api/media/8f493593ab38c103561478393f2101e2_ixuYtiL.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:21:58] "GET /api/invited-users/ HTTP/1.0" 200 20
+[09/Apr/2025 20:21:59] "GET /api/competitions/ HTTP/1.0" 200 338
+[09/Apr/2025 20:22:00] "GET /api/media/picture4.png HTTP/1.0" 200 51528
+[09/Apr/2025 20:22:00] "GET /api/media/Party_Image.png HTTP/1.0" 200 121986
+[09/Apr/2025 20:22:01] "GET /api/tasks/list/ HTTP/1.0" 200 2
+[09/Apr/2025 20:22:02] "GET /api/staking/levels/ HTTP/1.0" 200 531
+[09/Apr/2025 20:22:02] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:22:02] "GET /api/media/8f493593ab38c103561478393f2101e2_ixuYtiL.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:22:02] "GET /api/media/8f493593ab38c103561478393f2101e2_oiWy0d1.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:22:02] "GET /api/media/8f493593ab38c103561478393f2101e2.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:35:16] "GET /api/admin/ HTTP/1.0" 200 16571
+[09/Apr/2025 20:35:16] "GET /api/static/admin/css/base.css HTTP/1.0" 304 0
+[09/Apr/2025 20:35:16] "GET /api/static/admin/js/theme.js HTTP/1.0" 304 0
+[09/Apr/2025 20:35:17] "GET /api/static/admin/css/dark_mode.css HTTP/1.0" 304 0
+[09/Apr/2025 20:35:17] "GET /api/static/admin/css/nav_sidebar.css HTTP/1.0" 304 0
+[09/Apr/2025 20:35:17] "GET /api/static/admin/css/responsive.css HTTP/1.0" 304 0
+[09/Apr/2025 20:35:17] "GET /api/static/admin/css/dashboard.css HTTP/1.0" 304 0
+[09/Apr/2025 20:35:17] "GET /api/static/admin/js/nav_sidebar.js HTTP/1.0" 304 0
+[09/Apr/2025 20:35:17] "GET /api/static/admin/img/icon-changelink.svg HTTP/1.0" 304 0
+[09/Apr/2025 20:35:17] "GET /api/static/admin/img/icon-addlink.svg HTTP/1.0" 304 0
+[09/Apr/2025 20:35:17] "GET /api/static/admin/img/icon-deletelink.svg HTTP/1.0" 304 0
+[09/Apr/2025 20:35:20] "GET /api/admin/users/customuser/ HTTP/1.0" 200 16111
+[09/Apr/2025 20:35:20] "GET /api/static/admin/css/changelists.css HTTP/1.0" 200 6878
+[09/Apr/2025 20:35:20] "GET /api/admin/jsi18n/ HTTP/1.0" 200 3342
+[09/Apr/2025 20:35:20] "GET /api/static/admin/js/jquery.init.js HTTP/1.0" 200 347
+[09/Apr/2025 20:35:20] "GET /api/static/admin/js/vendor/jquery/jquery.js HTTP/1.0" 200 285314
+[09/Apr/2025 20:35:21] "GET /api/static/admin/js/core.js HTTP/1.0" 200 6208
+[09/Apr/2025 20:35:21] "GET /api/static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 9097
+[09/Apr/2025 20:35:21] "GET /api/static/admin/js/actions.js HTTP/1.0" 200 8076
+[09/Apr/2025 20:35:21] "GET /api/static/admin/js/urlify.js HTTP/1.0" 200 7887
+[09/Apr/2025 20:35:21] "GET /api/static/admin/js/prepopulate.js HTTP/1.0" 200 1531
+[09/Apr/2025 20:35:21] "GET /api/static/admin/js/vendor/xregexp/xregexp.js HTTP/1.0" 200 325171
+[09/Apr/2025 20:35:21] "GET /api/static/admin/js/filters.js HTTP/1.0" 200 978
+[09/Apr/2025 20:35:21] "GET /api/static/admin/img/tooltag-add.svg HTTP/1.0" 200 331
+[09/Apr/2025 20:35:44] "GET /api/admin/users/customuser/ HTTP/1.0" 200 16111
+[09/Apr/2025 20:35:44] "GET /api/admin/jsi18n/ HTTP/1.0" 200 3342
+[09/Apr/2025 20:35:45] "GET /api/admin/users/customuser/ HTTP/1.0" 200 16111
+[09/Apr/2025 20:35:45] "GET /api/admin/jsi18n/ HTTP/1.0" 200 3342
+[09/Apr/2025 20:35:45] "GET /api/admin/users/customuser/ HTTP/1.0" 200 16111
+[09/Apr/2025 20:35:45] "GET /api/admin/jsi18n/ HTTP/1.0" 200 3342
+[09/Apr/2025 20:35:47] "GET /api/admin/users/customuser/ HTTP/1.0" 200 16111
+[09/Apr/2025 20:35:47] "GET /api/admin/jsi18n/ HTTP/1.0" 200 3342
+[09/Apr/2025 20:35:47] "GET /api/admin/users/customuser/ HTTP/1.0" 200 16111
+[09/Apr/2025 20:35:48] "GET /api/admin/jsi18n/ HTTP/1.0" 200 3342
+[09/Apr/2025 20:35:48] "GET /api/admin/users/customuser/ HTTP/1.0" 200 16111
+[09/Apr/2025 20:35:48] "GET /api/admin/jsi18n/ HTTP/1.0" 200 3342
+[09/Apr/2025 20:35:50] "GET /api/admin/users/customuser/ HTTP/1.0" 200 16111
+[09/Apr/2025 20:35:50] "GET /api/admin/jsi18n/ HTTP/1.0" 200 3342
+[09/Apr/2025 20:39:37] "POST /api/auth/ HTTP/1.0" 200 858
+[09/Apr/2025 20:39:39] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:39:39] "GET /api/staking/levels/ HTTP/1.0" 200 531
+Not Found: /api/staking/me/
+Not Found: /api/staking/me/
+[09/Apr/2025 20:39:39] "GET /api/staking/me/ HTTP/1.0" 404 85
+[09/Apr/2025 20:39:39] "GET /api/transactions/ HTTP/1.0" 200 977
+[09/Apr/2025 20:39:39] "GET /api/staking/levels/ HTTP/1.0" 200 531
+[09/Apr/2025 20:39:41] "GET /api/staking/details/1 HTTP/1.0" 301 0
+[09/Apr/2025 20:39:42] "GET /api/staking/details/1/ HTTP/1.0" 200 241
+Not Found: /
+Not Found: /
+[09/Apr/2025 20:40:15] "GET / HTTP/1.1" 404 3278
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[09/Apr/2025 20:40:15] "GET /favicon.ico HTTP/1.1" 404 3328
+Bad Request: /api/register/
+Bad Request: /api/register/
+[09/Apr/2025 20:41:08] "POST /api/register/ HTTP/1.0" 400 63
+Bad Request: /api/register/
+Bad Request: /api/register/
+[09/Apr/2025 20:41:20] "POST /api/register/ HTTP/1.0" 400 63
+[09/Apr/2025 20:41:29] "POST /api/auth/ HTTP/1.0" 200 858
+[09/Apr/2025 20:41:32] "GET /api/staking/levels/ HTTP/1.0" 200 531
+[09/Apr/2025 20:41:32] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:41:32] "GET /api/media/8f493593ab38c103561478393f2101e2.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:41:32] "GET /api/media/8f493593ab38c103561478393f2101e2_ixuYtiL.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:41:32] "GET /api/media/8f493593ab38c103561478393f2101e2_oiWy0d1.png HTTP/1.0" 200 417398
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:42:18] "POST /api/auth/ HTTP/1.0" 403 28
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:42:30] "POST /api/auth/ HTTP/1.0" 403 28
+Bad Request: /api/register/
+Bad Request: /api/register/
+[09/Apr/2025 20:43:43] "POST /api/register/ HTTP/1.0" 400 63
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:43:48] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 20:43:50] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:43:50] "GET /api/staking/levels/ HTTP/1.0" 200 531
+Bad Request: /api/register/
+Bad Request: /api/register/
+[09/Apr/2025 20:45:09] "POST /api/register/ HTTP/1.0" 400 63
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:45:12] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 20:45:15] "GET /api/staking/levels/ HTTP/1.0" 200 531
+[09/Apr/2025 20:45:15] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:45:23] "GET /api/transactions/ HTTP/1.0" 200 977
+[09/Apr/2025 20:45:23] "GET /api/staking/levels/ HTTP/1.0" 200 531
+Not Found: /api/staking/me/
+Not Found: /api/staking/me/
+[09/Apr/2025 20:45:23] "GET /api/staking/me/ HTTP/1.0" 404 85
+[09/Apr/2025 20:45:24] "GET /api/invited-users/ HTTP/1.0" 200 20
+[09/Apr/2025 20:45:24] "GET /api/competitions/ HTTP/1.0" 200 338
+[09/Apr/2025 20:45:24] "GET /api/media/Party_Image.png HTTP/1.0" 200 121986
+[09/Apr/2025 20:45:24] "GET /api/media/picture4.png HTTP/1.0" 200 51528
+[09/Apr/2025 20:45:25] "GET /api/tasks/list/ HTTP/1.0" 200 2
+[09/Apr/2025 20:45:27] "GET /api/competitions/ HTTP/1.0" 200 338
+[09/Apr/2025 20:45:28] "GET /api/invited-users/ HTTP/1.0" 200 20
+[09/Apr/2025 20:45:29] "GET /api/leaders/ HTTP/1.0" 200 844
+[09/Apr/2025 20:45:32] "GET /api/staking/levels/ HTTP/1.0" 200 531
+[09/Apr/2025 20:45:32] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:48:20] "POST /api/register/ HTTP/1.0" 201 69
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:48:25] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:48:28] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 20:48:28] "GET /api/banners/ HTTP/1.0" 200 646
+Bad Request: /api/register/
+Bad Request: /api/register/
+[09/Apr/2025 20:50:55] "POST /api/register/ HTTP/1.0" 400 63
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:51:05] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:51:08] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 20:51:08] "GET /api/banners/ HTTP/1.0" 200 646
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:51:17] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:51:17] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:51:17] "GET /api/staking/levels/ HTTP/1.0" 401 58
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:52:13] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 20:52:15] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:52:16] "GET /api/staking/levels/ HTTP/1.0" 200 531
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:53:00] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:53:03] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 20:53:03] "GET /api/banners/ HTTP/1.0" 200 646
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:53:13] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 20:53:13] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 20:53:13] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:53:27] "POST /api/register/ HTTP/1.0" 201 69
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:53:35] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 20:53:37] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:53:37] "GET /api/media/8f493593ab38c103561478393f2101e2_oiWy0d1.png HTTP/1.0" 200 417398
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:53:37] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 20:53:37] "GET /api/media/8f493593ab38c103561478393f2101e2.png HTTP/1.0" 200 417398
+[09/Apr/2025 20:53:38] "GET /api/media/8f493593ab38c103561478393f2101e2_ixuYtiL.png HTTP/1.0" 200 417398
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:53:43] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:53:43] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 20:53:43] "GET /api/banners/ HTTP/1.0" 200 646
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:54:04] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 20:54:06] "GET /api/banners/ HTTP/1.0" 200 646
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:54:06] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 20:54:12] "GET /api/banners/ HTTP/1.0" 200 646
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:54:12] "GET /api/staking/levels/ HTTP/1.0" 401 58
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:54:12] "GET /api/staking/levels/ HTTP/1.0" 401 58
+Unauthorized: /api/staking/me/
+Unauthorized: /api/staking/me/
+[09/Apr/2025 20:54:12] "GET /api/staking/me/ HTTP/1.0" 401 58
+Unauthorized: /api/transactions/
+Unauthorized: /api/transactions/
+[09/Apr/2025 20:54:12] "GET /api/transactions/ HTTP/1.0" 401 58
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:54:13] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 20:54:13] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:54:31] "GET /api/ HTTP/1.0" 200 5300
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/css/default.css HTTP/1.0" 200 1152
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/css/bootstrap-tweaks.css HTTP/1.0" 200 3426
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/css/prettify.css HTTP/1.0" 200 817
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/css/bootstrap.min.css HTTP/1.0" 200 121457
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/js/csrf.js HTTP/1.0" 200 1793
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/js/prettify-min.js HTTP/1.0" 200 13632
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/js/ajax-form.js HTTP/1.0" 200 3796
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/js/bootstrap.min.js HTTP/1.0" 200 39680
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.0" 200 87533
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/js/default.js HTTP/1.0" 200 1268
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/js/load-ajax-form.js HTTP/1.0" 200 59
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/img/grid.png HTTP/1.0" 200 1458
+[09/Apr/2025 20:54:31] "GET /api/static/rest_framework/css/bootstrap.min.css.map HTTP/1.0" 200 540434
+[09/Apr/2025 20:55:26] "GET /api/admin HTTP/1.0" 301 0
+[09/Apr/2025 20:55:26] "GET /api/admin/ HTTP/1.0" 200 16571
+[09/Apr/2025 20:55:27] "GET /api/static/admin/css/base.css HTTP/1.0" 200 22092
+[09/Apr/2025 20:55:27] "GET /api/static/admin/js/theme.js HTTP/1.0" 200 1653
+[09/Apr/2025 20:55:27] "GET /api/static/admin/css/responsive.css HTTP/1.0" 200 17972
+[09/Apr/2025 20:55:27] "GET /api/static/admin/css/dark_mode.css HTTP/1.0" 200 2804
+[09/Apr/2025 20:55:27] "GET /api/static/admin/css/dashboard.css HTTP/1.0" 200 441
+[09/Apr/2025 20:55:27] "GET /api/static/admin/css/nav_sidebar.css HTTP/1.0" 200 2810
+[09/Apr/2025 20:55:27] "GET /api/static/admin/js/nav_sidebar.js HTTP/1.0" 200 3063
+[09/Apr/2025 20:55:27] "GET /api/static/admin/img/icon-changelink.svg HTTP/1.0" 200 380
+[09/Apr/2025 20:55:27] "GET /api/static/admin/img/icon-addlink.svg HTTP/1.0" 200 331
+[09/Apr/2025 20:55:27] "GET /api/static/admin/img/icon-deletelink.svg HTTP/1.0" 200 392
+[09/Apr/2025 20:55:32] "GET /api/admin/users/customuser/ HTTP/1.0" 200 16737
+[09/Apr/2025 20:55:32] "GET /api/static/admin/js/theme.js HTTP/1.0" 200 1653
+[09/Apr/2025 20:55:32] "GET /api/static/admin/css/base.css HTTP/1.0" 200 22092
+[09/Apr/2025 20:55:32] "GET /api/static/admin/css/dark_mode.css HTTP/1.0" 200 2804
+[09/Apr/2025 20:55:32] "GET /api/static/admin/css/nav_sidebar.css HTTP/1.0" 200 2810
+[09/Apr/2025 20:55:32] "GET /api/static/admin/css/changelists.css HTTP/1.0" 200 6878
+[09/Apr/2025 20:55:32] "GET /api/static/admin/css/responsive.css HTTP/1.0" 200 17972
+[09/Apr/2025 20:55:32] "GET /api/admin/jsi18n/ HTTP/1.0" 200 3342
+[09/Apr/2025 20:55:32] "GET /api/static/admin/js/core.js HTTP/1.0" 200 6208
+[09/Apr/2025 20:55:32] "GET /api/static/admin/js/vendor/jquery/jquery.js HTTP/1.0" 200 285314
+[09/Apr/2025 20:55:32] "GET /api/static/admin/js/jquery.init.js HTTP/1.0" 200 347
+[09/Apr/2025 20:55:32] "GET /api/static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 9097
+[09/Apr/2025 20:55:32] "GET /api/static/admin/js/actions.js HTTP/1.0" 200 8076
+[09/Apr/2025 20:55:32] "GET /api/static/admin/js/urlify.js HTTP/1.0" 200 7887
+[09/Apr/2025 20:55:32] "GET /api/static/admin/js/prepopulate.js HTTP/1.0" 200 1531
+[09/Apr/2025 20:55:32] "GET /api/static/admin/js/vendor/xregexp/xregexp.js HTTP/1.0" 200 325171
+[09/Apr/2025 20:55:33] "GET /api/static/admin/js/nav_sidebar.js HTTP/1.0" 200 3063
+[09/Apr/2025 20:55:33] "GET /api/static/admin/js/filters.js HTTP/1.0" 200 978
+[09/Apr/2025 20:55:33] "GET /api/static/admin/img/tooltag-add.svg HTTP/1.0" 200 331
+[09/Apr/2025 20:55:38] "POST /api/admin/users/customuser/ HTTP/1.0" 200 16152
+[09/Apr/2025 20:55:38] "GET /api/static/admin/js/theme.js HTTP/1.0" 200 1653
+[09/Apr/2025 20:55:38] "GET /api/static/admin/css/nav_sidebar.css HTTP/1.0" 200 2810
+[09/Apr/2025 20:55:38] "GET /api/static/admin/css/base.css HTTP/1.0" 200 22092
+[09/Apr/2025 20:55:38] "GET /api/static/admin/css/dark_mode.css HTTP/1.0" 200 2804
+[09/Apr/2025 20:55:38] "GET /api/static/admin/css/responsive.css HTTP/1.0" 200 17972
+[09/Apr/2025 20:55:38] "GET /api/static/admin/js/vendor/jquery/jquery.js HTTP/1.0" 200 285314
+[09/Apr/2025 20:55:38] "GET /api/static/admin/js/jquery.init.js HTTP/1.0" 200 347
+[09/Apr/2025 20:55:38] "GET /api/static/admin/js/actions.js HTTP/1.0" 200 8076
+[09/Apr/2025 20:55:38] "GET /api/static/admin/js/core.js HTTP/1.0" 200 6208
+[09/Apr/2025 20:55:38] "GET /api/static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 9097
+[09/Apr/2025 20:55:38] "GET /api/static/admin/js/urlify.js HTTP/1.0" 200 7887
+[09/Apr/2025 20:55:38] "GET /api/static/admin/js/prepopulate.js HTTP/1.0" 200 1531
+[09/Apr/2025 20:55:38] "GET /api/static/admin/js/vendor/xregexp/xregexp.js HTTP/1.0" 200 325171
+[09/Apr/2025 20:55:38] "GET /api/static/admin/js/nav_sidebar.js HTTP/1.0" 200 3063
+[09/Apr/2025 20:55:38] "GET /api/static/admin/js/cancel.js HTTP/1.0" 200 884
+[09/Apr/2025 20:55:45] "POST /api/admin/users/customuser/ HTTP/1.0" 302 0
+[09/Apr/2025 20:55:45] "GET /api/admin/users/customuser/ HTTP/1.0" 302 0
+[09/Apr/2025 20:55:45] "GET /api/admin/login/?next=/api/admin/users/customuser/ HTTP/1.0" 200 4379
+[09/Apr/2025 20:55:45] "GET /api/static/admin/css/base.css HTTP/1.0" 200 22092
+[09/Apr/2025 20:55:45] "GET /api/static/admin/css/login.css HTTP/1.0" 200 951
+[09/Apr/2025 20:55:45] "GET /api/static/admin/css/responsive.css HTTP/1.0" 200 17972
+[09/Apr/2025 20:55:45] "GET /api/static/admin/css/nav_sidebar.css HTTP/1.0" 200 2810
+[09/Apr/2025 20:55:45] "GET /api/static/admin/css/dark_mode.css HTTP/1.0" 200 2804
+[09/Apr/2025 20:55:45] "GET /api/static/admin/js/theme.js HTTP/1.0" 200 1653
+[09/Apr/2025 20:55:45] "GET /api/static/admin/js/nav_sidebar.js HTTP/1.0" 200 3063
+[09/Apr/2025 20:55:46] "GET /api/static/admin/img/icon-yes.svg HTTP/1.0" 200 436
+[09/Apr/2025 20:55:49] "POST /api/admin/login/?next=/api/admin/users/customuser/ HTTP/1.0" 200 4398
+[09/Apr/2025 20:55:49] "GET /api/static/admin/css/nav_sidebar.css HTTP/1.0" 200 2810
+[09/Apr/2025 20:55:49] "GET /api/static/admin/css/base.css HTTP/1.0" 200 22092
+[09/Apr/2025 20:55:49] "GET /api/static/admin/js/theme.js HTTP/1.0" 200 1653
+[09/Apr/2025 20:55:49] "GET /api/static/admin/css/dark_mode.css HTTP/1.0" 200 2804
+[09/Apr/2025 20:55:49] "GET /api/static/admin/css/responsive.css HTTP/1.0" 200 17972
+[09/Apr/2025 20:55:49] "GET /api/static/admin/css/login.css HTTP/1.0" 200 951
+[09/Apr/2025 20:55:50] "GET /api/static/admin/js/nav_sidebar.js HTTP/1.0" 200 3063
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:59:35] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:59:35] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 20:59:35] "GET /api/banners/ HTTP/1.0" 200 646
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 20:59:41] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 20:59:43] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 20:59:43] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 20:59:45] "POST /api/register/ HTTP/1.0" 201 69
+[09/Apr/2025 21:00:04] "POST /api/admin/login/?next=/api/admin/users/customuser/ HTTP/1.0" 302 0
+[09/Apr/2025 21:00:04] "GET /api/admin/users/customuser/ HTTP/1.0" 200 15509
+[09/Apr/2025 21:00:04] "GET /api/static/admin/css/base.css HTTP/1.0" 200 22092
+[09/Apr/2025 21:00:04] "GET /api/static/admin/css/dark_mode.css HTTP/1.0" 200 2804
+[09/Apr/2025 21:00:04] "GET /api/static/admin/css/changelists.css HTTP/1.0" 200 6878
+[09/Apr/2025 21:00:04] "GET /api/static/admin/css/responsive.css HTTP/1.0" 200 17972
+[09/Apr/2025 21:00:04] "GET /api/static/admin/css/nav_sidebar.css HTTP/1.0" 200 2810
+[09/Apr/2025 21:00:04] "GET /api/static/admin/js/theme.js HTTP/1.0" 200 1653
+[09/Apr/2025 21:00:04] "GET /api/static/admin/js/vendor/jquery/jquery.js HTTP/1.0" 200 285314
+[09/Apr/2025 21:00:04] "GET /api/admin/jsi18n/ HTTP/1.0" 200 3342
+[09/Apr/2025 21:00:04] "GET /api/static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 9097
+[09/Apr/2025 21:00:04] "GET /api/static/admin/js/actions.js HTTP/1.0" 200 8076
+[09/Apr/2025 21:00:04] "GET /api/static/admin/js/jquery.init.js HTTP/1.0" 200 347
+[09/Apr/2025 21:00:04] "GET /api/static/admin/js/core.js HTTP/1.0" 200 6208
+[09/Apr/2025 21:00:04] "GET /api/static/admin/js/urlify.js HTTP/1.0" 200 7887
+[09/Apr/2025 21:00:04] "GET /api/static/admin/js/prepopulate.js HTTP/1.0" 200 1531
+[09/Apr/2025 21:00:04] "GET /api/static/admin/js/vendor/xregexp/xregexp.js HTTP/1.0" 200 325171
+[09/Apr/2025 21:00:05] "GET /api/static/admin/js/nav_sidebar.js HTTP/1.0" 200 3063
+[09/Apr/2025 21:00:05] "GET /api/static/admin/js/filters.js HTTP/1.0" 200 978
+[09/Apr/2025 21:00:05] "GET /api/static/admin/img/tooltag-add.svg HTTP/1.0" 200 331
+[09/Apr/2025 21:00:08] "GET /api/static/admin/img/icon-addlink.svg HTTP/1.0" 200 331
+[09/Apr/2025 21:00:09] "GET /api/admin/users/customuser/1744232385878/change/ HTTP/1.0" 200 35195
+[09/Apr/2025 21:00:09] "GET /api/static/admin/css/base.css HTTP/1.0" 200 22092
+[09/Apr/2025 21:00:09] "GET /api/static/admin/css/dark_mode.css HTTP/1.0" 200 2804
+[09/Apr/2025 21:00:09] "GET /api/static/admin/css/nav_sidebar.css HTTP/1.0" 200 2810
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/theme.js HTTP/1.0" 200 1653
+[09/Apr/2025 21:00:09] "GET /api/admin/jsi18n/ HTTP/1.0" 200 3342
+[09/Apr/2025 21:00:09] "GET /api/static/admin/css/forms.css HTTP/1.0" 200 8794
+[09/Apr/2025 21:00:09] "GET /api/static/admin/css/responsive.css HTTP/1.0" 200 17972
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/vendor/jquery/jquery.js HTTP/1.0" 200 285314
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/calendar.js HTTP/1.0" 200 9141
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/jquery.init.js HTTP/1.0" 200 347
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/admin/DateTimeShortcuts.js HTTP/1.0" 200 19319
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/core.js HTTP/1.0" 200 6208
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 9097
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/actions.js HTTP/1.0" 200 8076
+[09/Apr/2025 21:00:09] "GET /api/static/admin/css/widgets.css HTTP/1.0" 200 11564
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/urlify.js HTTP/1.0" 200 7887
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/prepopulate.js HTTP/1.0" 200 1531
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/vendor/xregexp/xregexp.js HTTP/1.0" 200 325171
+[09/Apr/2025 21:00:09] "GET /api/static/admin/js/prepopulate_init.js HTTP/1.0" 200 586
+[09/Apr/2025 21:00:10] "GET /api/static/admin/js/nav_sidebar.js HTTP/1.0" 200 3063
+[09/Apr/2025 21:00:10] "GET /api/static/admin/img/icon-changelink.svg HTTP/1.0" 200 380
+[09/Apr/2025 21:00:10] "GET /api/static/admin/img/icon-viewlink.svg HTTP/1.0" 200 581
+[09/Apr/2025 21:00:10] "GET /api/static/admin/img/icon-addlink.svg HTTP/1.0" 200 331
+[09/Apr/2025 21:00:10] "GET /api/static/admin/js/change_form.js HTTP/1.0" 200 606
+[09/Apr/2025 21:00:10] "GET /api/static/admin/img/icon-calendar.svg HTTP/1.0" 200 1086
+[09/Apr/2025 21:00:10] "GET /api/static/admin/img/icon-clock.svg HTTP/1.0" 200 677
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 21:00:51] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 21:00:53] "GET /api/banners/ HTTP/1.0" 200 646
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:00:53] "GET /api/staking/levels/ HTTP/1.0" 401 58
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:00:59] "GET /api/staking/levels/ HTTP/1.0" 401 58
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 21:00:59] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 21:00:59] "GET /api/banners/ HTTP/1.0" 200 646
+Unauthorized: /api/tasks/list/
+Unauthorized: /api/tasks/list/
+[09/Apr/2025 21:01:08] "GET /api/tasks/list/ HTTP/1.0" 401 58
+[09/Apr/2025 21:01:10] "GET /api/competitions/ HTTP/1.0" 200 338
+[09/Apr/2025 21:01:10] "GET /api/media/Party_Image.png HTTP/1.0" 200 121986
+[09/Apr/2025 21:01:10] "GET /api/media/picture4.png HTTP/1.0" 200 51528
+Unauthorized: /api/tasks/list/
+Unauthorized: /api/tasks/list/
+[09/Apr/2025 21:01:12] "GET /api/tasks/list/ HTTP/1.0" 401 58
+[09/Apr/2025 21:01:18] "GET /api/competitions/ HTTP/1.0" 200 338
+Unauthorized: /api/tasks/list/
+Unauthorized: /api/tasks/list/
+[09/Apr/2025 21:01:20] "GET /api/tasks/list/ HTTP/1.0" 401 58
+[09/Apr/2025 21:01:21] "GET /api/banners/ HTTP/1.0" 200 646
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:01:21] "GET /api/staking/levels/ HTTP/1.0" 401 58
+Unauthorized: /api/transactions/
+Unauthorized: /api/transactions/
+[09/Apr/2025 21:01:26] "GET /api/transactions/ HTTP/1.0" 401 58
+Unauthorized: /api/staking/me/
+Unauthorized: /api/staking/me/
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:01:26] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 21:01:26] "GET /api/staking/me/ HTTP/1.0" 401 58
+Unauthorized: /api/invited-users/
+Unauthorized: /api/invited-users/
+[09/Apr/2025 21:01:27] "GET /api/invited-users/ HTTP/1.0" 401 58
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:01:28] "GET /api/staking/levels/ HTTP/1.0" 401 58
+Unauthorized: /api/staking/me/
+Unauthorized: /api/staking/me/
+[09/Apr/2025 21:01:28] "GET /api/staking/me/ HTTP/1.0" 401 58
+Unauthorized: /api/transactions/
+Unauthorized: /api/transactions/
+[09/Apr/2025 21:01:28] "GET /api/transactions/ HTTP/1.0" 401 58
+Unauthorized: /api/invited-users/
+Unauthorized: /api/invited-users/
+[09/Apr/2025 21:01:29] "GET /api/invited-users/ HTTP/1.0" 401 58
+Unauthorized: /api/leaders/
+Unauthorized: /api/leaders/
+[09/Apr/2025 21:01:29] "GET /api/leaders/ HTTP/1.0" 401 58
+[09/Apr/2025 21:01:33] "GET /api/competitions/ HTTP/1.0" 200 338
+[09/Apr/2025 21:01:34] "GET /api/banners/ HTTP/1.0" 200 646
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:01:34] "GET /api/staking/levels/ HTTP/1.0" 401 58
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 21:03:06] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:03:06] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 21:03:06] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 21:05:16] "GET /api/auth HTTP/1.0" 301 0
+Method Not Allowed: /api/auth/
+Method Not Allowed: /api/auth/
+[09/Apr/2025 21:05:16] "GET /api/auth/ HTTP/1.0" 405 5692
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/css/bootstrap.min.css HTTP/1.0" 304 0
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/css/bootstrap-tweaks.css HTTP/1.0" 304 0
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/css/prettify.css HTTP/1.0" 304 0
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/css/default.css HTTP/1.0" 304 0
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/js/default.js HTTP/1.0" 304 0
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/js/ajax-form.js HTTP/1.0" 304 0
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.0" 304 0
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/js/csrf.js HTTP/1.0" 304 0
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/js/bootstrap.min.js HTTP/1.0" 304 0
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/js/load-ajax-form.js HTTP/1.0" 304 0
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/img/grid.png HTTP/1.0" 304 0
+[09/Apr/2025 21:05:16] "GET /api/static/rest_framework/js/prettify-min.js HTTP/1.0" 304 0
+Bad Request: /api/auth/
+Bad Request: /api/auth/
+[09/Apr/2025 21:05:49] "POST /api/auth/ HTTP/1.0" 400 5709
+Unauthorized: /api/auth/
+Unauthorized: /api/auth/
+[09/Apr/2025 21:06:16] "POST /api/auth/ HTTP/1.0" 401 172
+Unauthorized: /api/auth/
+Unauthorized: /api/auth/
+[09/Apr/2025 21:06:28] "POST /api/auth/ HTTP/1.0" 401 172
+Unauthorized: /api/auth/
+Unauthorized: /api/auth/
+[09/Apr/2025 21:06:55] "POST /api/auth/ HTTP/1.0" 401 172
+Unauthorized: /api/auth/
+Unauthorized: /api/auth/
+[09/Apr/2025 21:06:56] "POST /api/auth/ HTTP/1.0" 401 172
+Not Found: /
+Not Found: /
+[09/Apr/2025 21:06:57] "GET / HTTP/1.1" 404 3278
+Unauthorized: /api/auth/
+Unauthorized: /api/auth/
+[09/Apr/2025 21:07:12] "POST /api/auth/ HTTP/1.0" 401 172
+Unauthorized: /api/auth/
+Unauthorized: /api/auth/
+[09/Apr/2025 21:08:09] "POST /api/auth/ HTTP/1.0" 401 172
+Unauthorized: /api/auth/
+Unauthorized: /api/auth/
+[09/Apr/2025 21:08:10] "POST /api/auth/ HTTP/1.0" 401 172
+Unauthorized: /api/auth/
+Unauthorized: /api/auth/
+[09/Apr/2025 21:08:30] "POST /api/auth/ HTTP/1.0" 401 172
+Unauthorized: /api/auth/
+Unauthorized: /api/auth/
+[09/Apr/2025 21:08:41] "POST /api/auth/ HTTP/1.0" 401 172
+Unauthorized: /api/auth/
+Unauthorized: /api/auth/
+[09/Apr/2025 21:08:48] "POST /api/auth/ HTTP/1.0" 401 172
+Unauthorized: /api/auth/
+Unauthorized: /api/auth/
+[09/Apr/2025 21:08:53] "POST /api/auth/ HTTP/1.0" 401 172
+Bad Request: /api/register/
+Bad Request: /api/register/
+[09/Apr/2025 21:09:58] "POST /api/register/ HTTP/1.0" 400 63
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 21:10:32] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:10:34] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 21:10:34] "GET /api/banners/ HTTP/1.0" 200 646
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:13:04] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 21:13:04] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 21:13:04] "GET /api/banners/ HTTP/1.0" 200 646
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 21:14:04] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 21:18:16] "POST /api/auth/ HTTP/1.0" 200 807
+[09/Apr/2025 21:18:53] "POST /api/auth/ HTTP/1.0" 200 6852
+[09/Apr/2025 21:18:53] "GET /api/static/rest_framework/css/bootstrap.min.css HTTP/1.0" 304 0
+[09/Apr/2025 21:18:53] "GET /api/static/rest_framework/css/bootstrap-tweaks.css HTTP/1.0" 304 0
+[09/Apr/2025 21:18:53] "GET /api/static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.0" 304 0
+[09/Apr/2025 21:18:53] "GET /api/static/rest_framework/css/prettify.css HTTP/1.0" 304 0
+[09/Apr/2025 21:18:53] "GET /api/static/rest_framework/css/default.css HTTP/1.0" 304 0
+[09/Apr/2025 21:18:53] "GET /api/static/rest_framework/js/ajax-form.js HTTP/1.0" 304 0
+[09/Apr/2025 21:18:53] "GET /api/static/rest_framework/js/csrf.js HTTP/1.0" 304 0
+[09/Apr/2025 21:18:53] "GET /api/static/rest_framework/js/bootstrap.min.js HTTP/1.0" 304 0
+[09/Apr/2025 21:18:53] "GET /api/static/rest_framework/js/prettify-min.js HTTP/1.0" 304 0
+[09/Apr/2025 21:18:53] "GET /api/static/rest_framework/js/default.js HTTP/1.0" 304 0
+[09/Apr/2025 21:18:53] "GET /api/static/rest_framework/js/load-ajax-form.js HTTP/1.0" 304 0
+Bad Request: /api/register/
+Bad Request: /api/register/
+[09/Apr/2025 21:19:26] "POST /api/register/ HTTP/1.0" 400 63
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 21:19:29] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:19:36] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 21:19:36] "GET /api/banners/ HTTP/1.0" 200 646
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 21:22:51] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:22:51] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 21:22:52] "GET /api/banners/ HTTP/1.0" 200 646
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 21:26:17] "POST /api/auth/ HTTP/1.0" 403 28
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:26:19] "GET /api/staking/levels/ HTTP/1.0" 401 58
+[09/Apr/2025 21:26:19] "GET /api/banners/ HTTP/1.0" 200 646
+[09/Apr/2025 21:26:41] "GET /api/admin/ HTTP/1.0" 302 0
+[09/Apr/2025 21:26:41] "GET /api/admin/login/?next=/api/admin/ HTTP/1.0" 200 4203
+[09/Apr/2025 21:26:41] "GET /api/static/admin/css/base.css HTTP/1.0" 200 22092
+[09/Apr/2025 21:26:41] "GET /api/static/admin/css/dark_mode.css HTTP/1.0" 200 2804
+[09/Apr/2025 21:26:41] "GET /api/static/admin/css/nav_sidebar.css HTTP/1.0" 200 2810
+[09/Apr/2025 21:26:41] "GET /api/static/admin/css/login.css HTTP/1.0" 200 951
+[09/Apr/2025 21:26:41] "GET /api/static/admin/css/responsive.css HTTP/1.0" 200 17972
+[09/Apr/2025 21:26:41] "GET /api/static/admin/js/theme.js HTTP/1.0" 200 1653
+[09/Apr/2025 21:26:42] "GET /api/static/admin/js/nav_sidebar.js HTTP/1.0" 200 3063
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:28:55] "GET /api/staking/levels/ HTTP/1.0" 401 58
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 21:28:55] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 21:28:55] "GET /api/banners/ HTTP/1.0" 200 646
+Forbidden: /api/auth/
+Forbidden: /api/auth/
+[09/Apr/2025 21:29:03] "POST /api/auth/ HTTP/1.0" 403 28
+[09/Apr/2025 21:29:06] "GET /api/banners/ HTTP/1.0" 200 646
+Unauthorized: /api/staking/levels/
+Unauthorized: /api/staking/levels/
+[09/Apr/2025 21:29:06] "GET /api/staking/levels/ HTTP/1.0" 401 58
